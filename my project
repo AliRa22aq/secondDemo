@@ -1,0 +1,48 @@
+[33mcommit e027614a0959233b7f31f6b9248e293491eeac6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 9b81b0b 2a97022
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 20:04:56 2020 +0500
+
+    Merge branch 'dev'
+
+[33mcommit 2a97022eec11a0f94011d6d7ed2c6a3d8c1477e5[m[33m ([m[1;32mdev[m[33m)[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 20:03:08 2020 +0500
+
+    added fifth.txt
+
+[33mcommit 9b81b0ba467973d3e7f1a6f6dd4e1f61eea19ada[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 20:01:59 2020 +0500
+
+    added fourth.txt
+
+[33mcommit 167eaf80daa18db3f4801deecfbe40604eda7110[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 19:27:58 2020 +0500
+
+    new added
+
+[33mcommit 2d09e92789c6459959dea6772c7300b9c8174ee5[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 19:23:24 2020 +0500
+
+    newali added
+
+[33mcommit cd3582fbb11ccb2b5c44fb9672b130a0fe3b1fee[m[33m ([m[1;32mali[m[33m)[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 19:21:22 2020 +0500
+
+    secondnew.txt added
+
+[33mcommit 3a20f2d1a3d8ab18d5cc056e79c95c50ce32f3c5[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 19:18:21 2020 +0500
+
+    added new file.txt
+
+[33mcommit 6bc76bf17a31f93e771c10a37316e3a0ab6a823c[m
+Author: Ali Razzaq <alirazzaquet@gmail.com>
+Date:   Wed Jan 1 19:16:43 2020 +0500
+
+    added new files first and second
